@@ -1,0 +1,8 @@
+@inproceedings{Kumar_2020_WACV,
+  author={Kumar, Suryansh},
+  title={Non-Rigid Structure from Motion: Prior-Free Factorization Method Revisited},
+  booktitle={The IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pages={51-60},
+  month={March},
+  year={2020}
+}
